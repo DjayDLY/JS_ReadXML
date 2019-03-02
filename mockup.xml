@@ -1,0 +1,30 @@
+<cars>
+       <car>
+          <brand>Ferrari</brand>
+          <make>940</make>
+          <year>1999</year>
+          <color>red</color>
+          <price>100000.00</price>
+       </car>
+       <car>
+          <brand>Tesla</brand>
+          <make>Model-S</make>
+          <year>2019</year>
+          <color>Black</color>
+          <price>89000.00</price>
+       </car>
+       <car>
+          <brand>Nissan</brand>
+          <make>GTR R-35</make>
+          <year>2017</year>
+          <color>White</color>
+          <price>129000.00</price>
+       </car>
+        <car>
+          <brand>Toyota</brand>
+          <make>Corrola</make>
+          <year>2012</year>
+          <color>Blue</color>
+          <price>12000.00</price>
+       </car>
+</cars>
