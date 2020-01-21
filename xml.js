@@ -8,8 +8,8 @@ var carArray = new Array();
 
 	/*
 	*
-	*			Classe Car
-	* 		Nothing Complex
+	*	Classe Car
+	* 	Nothing Complex
 	*
 	*/
 	class Car{
@@ -21,7 +21,7 @@ var carArray = new Array();
 			this.price = _Price;
 		}
 
-		getBrand(){	return this.brand; }
+		getBrand(){ return this.brand; }
 		getMake (){ return this.make;  }
 		getYear (){ return this.year;  }
 		getColor(){ return this.color; }
@@ -31,10 +31,10 @@ var carArray = new Array();
 
 	/*
 	*
-	*			Classe Query
-	*			Bon on fait une interface pour pouvoir exploiter les donnes du genre
-	*			!! J'ai faite juste des Get mais on aurait pu avoir des ADD / Delete / etc. !!
-	*			!! Bref jpense pas qu'on est a manager le data fourni si oui bah c'est pas trop complique !!\
+	*	Classe Query
+	*	Bon on fait une interface pour pouvoir exploiter les donnes du genre
+	*	!! J'ai faite juste des Get mais on aurait pu avoir des ADD / Delete / etc. !!
+	*	!! Bref jpense pas qu'on est a manager le data fourni si oui bah c'est pas trop complique !!\
 	*
 	*/
 
@@ -83,7 +83,7 @@ var carArray = new Array();
 
 	/*
 	*
-	* 		Read XML
+	* 	Read XML
 	*
 	*/
 	(function readXML(xmlFile){
@@ -108,7 +108,7 @@ var carArray = new Array();
 		/*
 		*
 		* 	Create object of type car and add it to the array
-		*		Icitte on initialise
+		*	Ici on initialise
 		*
 		*/
 
@@ -128,7 +128,7 @@ var carArray = new Array();
 
 		/*
 		*
-		*			POC
+		*	POC
 		*
 		*/
 
